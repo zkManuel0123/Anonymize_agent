@@ -10,5 +10,12 @@ Features
 💡 User-Friendly Interface: Interactive workflows for seamless communication and report generation.
 🔍 Scalable & Flexible: Easily adaptable to other traditional and modern medicine systems.
 
+📺 **Watch the Demo Video:** [HerbAgent Demo on YouTube]([YOUR_YOUTUBE_VIDEO_LINK](https://youtu.be/M2J1N40AdJk))
 
-The code for this project has not been open-sourced yet. Please stay tuned!
+
+
+（The code for this project has not been open-sourced yet. Please stay tuned!）
+
+
+
+
