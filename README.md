@@ -2,7 +2,8 @@
 
 ### Welcome to the next level of network pharmacology!
 
-Welcome to HerbAgent, an AI-driven framework that leverages Large Language Models (LLMs) and multi-agent collaboration to automate and accelerate Traditional Chinese Medicine (TCM) network pharmacology research. HerbAgent streamlines complex analytical workflows, offering an efficient and scalable solution for herbal medicine research and drug discovery.
+HerbAgent is an AI-driven framework that leverages Large Language Models (LLMs) and multi-agent collaboration to automate and accelerate Traditional Chinese Medicine (TCM) network pharmacology research. By streamlining complex analytical workflows, HerbAgent provides an efficient and scalable solution for herbal medicine research and drug discovery.
+
 
 ### Features
 
