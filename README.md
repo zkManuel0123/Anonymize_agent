@@ -18,7 +18,7 @@ HerbAgent is an AI-driven framework that leverages Large Language Models (LLMs) 
 🔍 Scalable & Flexible: Easily adaptable to other traditional and modern medicine systems.
 
 
-📺 **Watch the Demo Video:** [HerbAgent Demo on YouTube](https://youtu.be/M2J1N40AdJk))
+
 
 
 
