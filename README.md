@@ -1,8 +1,4 @@
-# HerbAgent: AI-Powered Framework for Scalable Network Pharmacology
-
-### Welcome to the next level of network pharmacology!
-
-HerbAgent is an AI-driven framework that leverages Large Language Models (LLMs) and multi-agent collaboration to automate and accelerate network pharmacology research. By streamlining complex analytical workflows, HerbAgent provides an efficient and scalable solution for herbal medicine research and drug discovery.
+This repository has been anonymized for the peer review process. All identifying information has been removed to ensure blind review. The complete code with full attribution will be made available upon publication.
 
 
 ### Features
@@ -19,10 +15,6 @@ HerbAgent is an AI-driven framework that leverages Large Language Models (LLMs) 
 
 
 
-
-
-
-（The code for this project has not been open-sourced yet. Please stay tuned!）
 
 
 
